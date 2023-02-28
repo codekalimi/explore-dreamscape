@@ -1,0 +1,13 @@
+prefix=/Users/aamirkalimi/Desktop/Machine Learning/sample_project/env
+exec_prefix=/Users/aamirkalimi/Desktop/Machine Learning/sample_project/env
+libdir=/Users/aamirkalimi/Desktop/Machine Learning/sample_project/env/lib
+sharedlibdir=/Users/aamirkalimi/Desktop/Machine Learning/sample_project/env/lib
+includedir=/Users/aamirkalimi/Desktop/Machine Learning/sample_project/env/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

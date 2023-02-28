@@ -1,0 +1,37 @@
+{
+  "build": "py310hecd8cb5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "matplotlib-base >=3.6.2,<3.6.3.0a0",
+    "python >=3.10,<3.11.0a0",
+    "tornado >=5"
+  ],
+  "extracted_package_dir": "/Users/aamirkalimi/opt/anaconda3/pkgs/matplotlib-3.6.2-py310hecd8cb5_0",
+  "features": "",
+  "files": [],
+  "fn": "matplotlib-3.6.2-py310hecd8cb5_0.conda",
+  "legacy_bz2_md5": "3b72daa7ef3bbc3b80952d38a6e0f9cd",
+  "license": "LicenseRef-PSF-based",
+  "license_family": "PSF",
+  "link": {
+    "source": "/Users/aamirkalimi/opt/anaconda3/pkgs/matplotlib-3.6.2-py310hecd8cb5_0",
+    "type": 1
+  },
+  "md5": "08e31663c2bea27efccdc55003b06419",
+  "name": "matplotlib",
+  "package_tarball_full_path": "/Users/aamirkalimi/opt/anaconda3/pkgs/matplotlib-3.6.2-py310hecd8cb5_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "matplotlib",
+  "sha256": "03a728c14ce9d06c1de7773a932ae9790168d5acb21b1ed74c7b971c7def286b",
+  "size": 9076,
+  "subdir": "osx-64",
+  "timestamp": 1670466441922,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/matplotlib-3.6.2-py310hecd8cb5_0.conda",
+  "version": "3.6.2"
+}
